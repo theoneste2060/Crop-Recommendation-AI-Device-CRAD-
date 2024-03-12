@@ -92,6 +92,7 @@ Our vision is to revolutionize Rwanda's agriculture through the application of A
 The project team will consist of five data scientists, three hardware engineers, and two UI/UX designers. To mitigate risks, we will conduct regular system backups, rigorous testing, and comprehensive user training. Our main deliverable is the fully functional CRAD device, and we'll use reporting tools such as Jira for effective project management. 
 
 Our end product is a user-friendly CRAD capable of recommending suitable crops for Rwandan farmers based on real-time land parameters and forecasted rainfall. Our SMART goals align with delivering a fully functional device that increases crop yield by 20% within the first year of deployment.  
+
 | Deliverable | Timeline |
 | --- | --- |
 | System Design | 6 months |
