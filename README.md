@@ -54,7 +54,7 @@ Our project promises a new dawn for Rwanda's agriculture sector. By addressing t
 The **Crop Recommendation AI Device (CRAD)**, built on a Raspberry Pi 4 Model B, is a technological marvel designed to **revolutionize precision agriculture**. This device's primary function is to recommend suitable crops based on land criteria and predicted rainfall, making it a vital tool for optimizing agricultural practices.
 </p>
 <p align="justify">
-The hardware components of the device include the **Raspberry Pi 4 Model B, a 5-in-1 soil sensor, **and** a 5-inch touchscreen**. The sensor communicates with the system via a **MAX485 TTL** to **RS485 module**, and the wiring details are seamlessly orchestrated to connect all the components effectively. An integrated touchscreen provides real-time display of the parameters, enhancing the user interaction with the device.</p>
+The hardware components of the device include the **Raspberry Pi 4 Model B, a 5-in-1 soil sensor, **and** a 5-inch touchscreen**. The sensor communicates with the system via a **MAX485 TTL** to **RS485 module**, and the wiring details are seamlessly orchestrated to connect all the components effectively. An integrated touchscreen provides real-time display of the parameters, enhancing the user interaction with the device.
 ![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/3e5d4fa5-8100-4d11-a926-27f14ea01eeb)
 ![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/a51883be-f37c-4518-a514-f48a2abdefbf)
 ![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/b3e7eec3-2864-42c1-bde1-1e7f6ea800e2)
