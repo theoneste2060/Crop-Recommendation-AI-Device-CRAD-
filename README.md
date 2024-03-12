@@ -32,7 +32,8 @@ Our end product is a user-friendly CRAD capable of recommending suitable crops f
 ## 5. Resources Needed
  
 The estimated project budget stands at $100,000. This sum includes $40,000 for hardware components, $30,000 for software development, $20,000 for testing, and $10,000 for user training. A detailed cost breakdown and resource allocation plan will be provided upon project approval.
-![Uploading image.png…]()
+[![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/3d3cd064-57be-4837-96ea-98d9485cf444)](https://uploads.cnfa.org/2022/04/22105042/Day-3-_-Ngoma-_-Watermelon-Farm-and-Saving-_-DSC_7725.jpg)
+
 
   
 | Resource | Estimated Cost |
