@@ -40,10 +40,13 @@ References:
 
 ## 4. Objecives
 
-1.Develop and implement the Crop Recommendation AI Device (CRAD) in collaboration with local agricultural stakeholders, including farmers, cooperatives, and government agencies.
-2. Customize CRAD to Rwanda's unique agricultural landscape, considering soil characteristics, weather patterns, and crop varieties commonly grown in the region.
-3. Evaluate the impact of CRAD on key agricultural indicators, including crop yields, resource efficiency, climate resilience, and soil health.
-4. Facilitate knowledge transfer and capacity building among farmers through training programs and extension services focused on CRAD usage and best agricultural practices.
+- Develop and implement the Crop Recommendation AI Device (CRAD) in collaboration with local agricultural stakeholders, including farmers, cooperatives, and government agencies.
+
+- Customize CRAD to Rwanda's unique agricultural landscape, considering soil characteristics, weather patterns, and crop varieties commonly grown in the region.
+   
+- Evaluate the impact of CRAD on key agricultural indicators, including crop yields, resource efficiency, climate resilience, and soil health.
+   
+- Facilitate knowledge transfer and capacity building among farmers through training programs and extension services focused on CRAD usage and best agricultural practices.
 
 ## 5. Methodology
 
