@@ -1,10 +1,10 @@
 # Project Proposal: Crop Recommendation AI Device (CRAD)
 
 ## 1. Executive Summary
-
+<p align="justify">
 Agriculture in Rwanda, despite contributing about 31% to the national GDP and employing about 70% of the population, faces significant challenges in optimizing crop yield. One of the primary challenges is the lack of precise information on suitable crops for specific land and weather conditions. To counter this problem, we propose the introduction of the Crop Recommendation AI Device (CRAD). This AI-powered device is designed to provide crop recommendations based on real-time land parameters and forecasted rainfall. The anticipated impact of this project is a 15-20% improvement in crop yield and optimized agricultural practices in Rwanda over the next five years.
 (Rwanda Agriculture Board (2019). Annual Report)
-
+</p>
 ## 2. Project Background
 
 While Rwanda's agriculture sector is a significant contributor to the economy and livelihoods, it is yet to fully leverage the opportunities presented by technology for precision farming. Over the past decade, research has addressed generic crop recommendation systems, but none has been tailor-made for Rwanda's unique soil and climatic conditions. This gap provides an opportunity for a localized solution like the CRAD, which will be customized to Rwanda's agricultural landscape.
