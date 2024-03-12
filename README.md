@@ -1,6 +1,3 @@
-
-![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/8ff3d6dc-e261-4f3d-9637-74dc8f632965)
-
 # Project Proposal: Crop Recommendation AI Device (CRAD)
 ## 1. Executive Summary
  
@@ -33,7 +30,7 @@ Our end product is a user-friendly CRAD capable of recommending suitable crops f
 
 ## 5. Resources Needed
  
-The estimated project budget stands at $100,000. This sum includes $40,000 for hardware components, $30,000 for software development, $20,000 for testing, and $10,000 for user training. A detailed cost breakdown and resource allocation plan will be provided upon project approval.
+The estimated project budget stands at $100,000. This sum includes $40,000 for hardware components, $30,000 for software development, $20,000 for testing, and $10,000 for user training. A detailed cost breakdown and resource allocation plan will be provided upon project approval. </br>
 <img width="566" alt="image" src="https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/c6d67b93-cc55-42e6-be5b-ee748cc2ffc6">
 
 
