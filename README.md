@@ -1,11 +1,11 @@
 # Crop-Recommendation-AI-Device-CRAD-
-The Crop Recommendation AI Device (CRAD), built on a Raspberry Pi 4 Model B, is a technological marvel designed to revolutionize precision agriculture. This device's primary function is to recommend suitable crops based on land criteria and predicted rainfall, making it a vital tool for optimizing agricultural practices.
+The **Crop Recommendation AI Device (CRAD)**, built on a Raspberry Pi 4 Model B, is a technological marvel designed to **revolutionize precision agriculture**. This device's primary function is to recommend suitable crops based on land criteria and predicted rainfall, making it a vital tool for optimizing agricultural practices.
 
-The hardware components of the device include the Raspberry Pi 4 Model B, a 5-in-1 soil sensor, and a 5-inch touchscreen. The sensor communicates with the system via a MAX485 TTL to RS485 module, and the wiring details are seamlessly orchestrated to connect all the components effectively. An integrated touchscreen provides real-time display of the parameters, enhancing the user interaction with the device.
+The hardware components of the device include the **Raspberry Pi 4 Model B, a 5-in-1 soil sensor, **and** a 5-inch touchscreen**. The sensor communicates with the system via a **MAX485 TTL** to **RS485 module**, and the wiring details are seamlessly orchestrated to connect all the components effectively. An integrated touchscreen provides real-time display of the parameters, enhancing the user interaction with the device.
 
-Data management and machine learning are at the heart of this device. The dataset utilized consists of columns for N, P, K, temperature, humidity, pH, rainfall, and label. The device employs a Random Forest Classifier for crop recommendations, trained on 2201 records. This use of Artificial Intelligence allows the device to provide highly accurate crop recommendations, tailored to the specific conditions of the land.
+Data management and machine learning are at the heart of this device. The dataset utilized consists of columns for **N, P, K, temperature, humidity, pH, rainfall, and label**. The device employs a **Random Forest Classifie**r for crop recommendations, trained on 2201 records. This use of Artificial Intelligence allows the device to provide highly accurate crop recommendations, tailored to the specific conditions of the land.
 
-The user interface is designed with simplicity and efficiency in mind. The touchscreen interface displays real-time parameters when the sensor is inserted into the soil, and two buttons, 'Predict' and 'Reset', provide user control over the system. The 'Predict' button triggers the machine learning model to recommend suitable crops, while the 'Reset' button reloads data and resets the system, ensuring it is ready for the next use.
+The user interface is designed with simplicity and efficiency in mind. The touchscreen interface displays real-time parameters when the sensor is inserted into the soil, and two buttons, '**Predict**' and '**Reset**', provide user control over the system. The 'Predict' button triggers the machine learning model to recommend suitable crops, while the 'Reset' button reloads data and resets the system, ensuring it is ready for the next use.
 
 The 5-in-1 soil sensor measures pH, NPK, temperature, humidity, and conductivity, providing comprehensive data for crop recommendation. The milliseconds delay for loading parameters into the system ensures real-time data accuracy, while the user-friendly interface allows users to easily interact with the system.
 
@@ -13,7 +13,7 @@ In terms of meteorological forecasting, the device integrates a 3-month average 
 
 From a user experience perspective, this device offers numerous benefits. It allows users to easily understand and interact with the system and provides crop recommendations based on real-time land parameters and forecasted rainfall. It enables early identification of suitable crops, optimizing agricultural practices, and offers technical insights for users seeking advanced functionality.
 
-In conclusion, the Crop Recommendation AI Device (CRAD) is a sophisticated piece of technology that combines hardware components, data management, Artificial Intelligence, user interface design, meteorological forecasting, and user experience considerations to provide a comprehensive solution for precision agriculture.
+In conclusion, the **Crop Recommendation AI Device (CRAD)** is a sophisticated piece of technology that combines **hardware components, data management, Artificial Intelligence, user interface design, meteorological forecasting, and user experience considerations to provide a comprehensive solution for precision agriculture.**
 
 **APPENDIX**
 
