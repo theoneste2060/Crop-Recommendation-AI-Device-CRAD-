@@ -3,11 +3,19 @@ The **Crop Recommendation AI Device (CRAD)**, built on a Raspberry Pi 4 Model B,
 
 The hardware components of the device include the **Raspberry Pi 4 Model B, a 5-in-1 soil sensor, **and** a 5-inch touchscreen**. The sensor communicates with the system via a **MAX485 TTL** to **RS485 module**, and the wiring details are seamlessly orchestrated to connect all the components effectively. An integrated touchscreen provides real-time display of the parameters, enhancing the user interaction with the device.
 ![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/3e5d4fa5-8100-4d11-a926-27f14ea01eeb)
+![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/a51883be-f37c-4518-a514-f48a2abdefbf)
+![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/b3e7eec3-2864-42c1-bde1-1e7f6ea800e2)
+![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/e36c1ef2-4953-4250-b916-aac63ace34fc)
+
+
 
 
 Data management and machine learning are at the heart of this device. The dataset utilized consists of columns for **N, P, K, temperature, humidity, pH, rainfall, and label**. The device employs a **Random Forest Classifie**r for crop recommendations, trained on 2201 records. This use of Artificial Intelligence allows the device to provide highly accurate crop recommendations, tailored to the specific conditions of the land.
+![image](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/41614c8d-f61b-4309-a9ce-0b7dd61d0886)
+
 
 The user interface is designed with simplicity and efficiency in mind. The touchscreen interface displays real-time parameters when the sensor is inserted into the soil, and two buttons, '**Predict**' and '**Reset**', provide user control over the system. The 'Predict' button triggers the machine learning model to recommend suitable crops, while the 'Reset' button reloads data and resets the system, ensuring it is ready for the next use.
+<img width="646" alt="image" src="https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-/assets/101105164/f6886f05-84a9-4575-bc43-4ad52279aa93">
 
 The 5-in-1 soil sensor measures pH, NPK, temperature, humidity, and conductivity, providing comprehensive data for crop recommendation. The milliseconds delay for loading parameters into the system ensures real-time data accuracy, while the user-friendly interface allows users to easily interact with the system.
 
