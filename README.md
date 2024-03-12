@@ -93,6 +93,7 @@ The project team will consist of five data scientists, three hardware engineers,
 
 Our end product is a user-friendly CRAD capable of recommending suitable crops for Rwandan farmers based on real-time land parameters and forecasted rainfall. Our SMART goals align with delivering a fully functional device that increases crop yield by 20% within the first year of deployment.  
 
+
 | Deliverable | Timeline |
 | --- | --- |
 | System Design | 6 months |
