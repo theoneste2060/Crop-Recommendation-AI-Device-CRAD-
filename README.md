@@ -14,7 +14,7 @@ While Rwanda's agriculture sector is a significant contributor to the economy an
 Our vision is to revolutionize Rwanda's agriculture through the application of AI. We aim to develop a user-friendly CRAD built on the Raspberry Pi 4 Model B platform within a 24-month project timeline. The key milestones of the project include a six-month system design phase, four months of data collection, six months of software development, four months for testing, and four months for deployment and user training.
   
  
-The project team will consist of five data scientists, three hardware engineers, and two UI/UX designers. To mitigate risks, we will conduct regular system backups, rigorous testing, and comprehensive user training. Our main deliverable is the fully functional CRAD device, and we'll use reporting tools such as Jira for effective project management.
+The project team will consist of five data scientists, three hardware engineers, and two UI/UX designers. To mitigate risks, we will conduct regular system backups, rigorous testing, and comprehensive user training. Our main deliverable is the fully functional CRAD device, and we'll use reporting tools such as Jira for effective project management. 
   
 
 ## 4. Project Deliverables and Goals
