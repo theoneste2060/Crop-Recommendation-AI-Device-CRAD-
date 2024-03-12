@@ -50,11 +50,15 @@ References:
 
 ## 5. Methodology
 
-**Data Collection:** Gather soil samples, weather data, and crop performance metrics from various regions of Rwanda to train the CRAD algorithm. Collaborate with local agricultural research institutions and government agencies for data collection.
-**Algorithm Development:** Develop an AI algorithm that integrates soil parameters and weather data to generate personalized crop recommendations tailored to Rwanda's agricultural conditions. Validate the algorithm through field trials and expert consultations.
-**Implementation:** Deploy CRAD devices in pilot areas across Rwanda and conduct training sessions for farmers on device usage, interpretation of recommendations, and adoption of climate-smart agriculture practices.
-**Evaluation:** Monitor and evaluate the impact of CRAD on agricultural productivity, resource efficiency, climate resilience, and soil health. Collect feedback from farmers to assess the usability and effectiveness of CRAD in real-world farming scenarios.
-**Knowledge Transfer:** Organize workshops, seminars, and extension services to disseminate knowledge about CRAD and best agricultural practices. Collaborate with local agricultural extension services and farmer cooperatives for outreach activities.
+- **Data Collection:** Gather soil samples, weather data, and crop performance metrics from various regions of Rwanda to train the CRAD algorithm. Collaborate with local agricultural research institutions and government agencies for data collection.
+  
+- **Algorithm Development:** Develop an AI algorithm that integrates soil parameters and weather data to generate personalized crop recommendations tailored to Rwanda's agricultural conditions. Validate the algorithm through field trials and expert consultations.
+  
+- **Implementation:** Deploy CRAD devices in pilot areas across Rwanda and conduct training sessions for farmers on device usage, interpretation of recommendations, and adoption of climate-smart agriculture practices.
+  
+- **Evaluation:** Monitor and evaluate the impact of CRAD on agricultural productivity, resource efficiency, climate resilience, and soil health. Collect feedback from farmers to assess the usability and effectiveness of CRAD in real-world farming scenarios.
+  
+- **Knowledge Transfer:** Organize workshops, seminars, and extension services to disseminate knowledge about CRAD and best agricultural practices. Collaborate with local agricultural extension services and farmer cooperatives for outreach activities.
 
 ## 6. Expected Outcomes
  
