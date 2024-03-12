@@ -20,7 +20,7 @@ The project team will consist of five data scientists, three hardware engineers,
 
 ## 4. Project Deliverables and Goals
 <p align="justify">
-Our end product is a user-friendly CRAD capable of recommending suitable crops for Rwandan farmers based on real-time land parameters and forecasted rainfall. Our SMART goals align with delivering a fully functional device that increases crop yield by 20% within the first year of deployment.
+Our end product is a user-friendly CRAD capable of recommending suitable crops for Rwandan farmers based on real-time land parameters and forecasted rainfall. Our SMART goals align with delivering a fully functional device that increases crop yield by 20% within the first year of deployment.</p>
 | Deliverable | Timeline |
 | --- | --- |
 | System Design | 6 months |
@@ -28,7 +28,7 @@ Our end product is a user-friendly CRAD capable of recommending suitable crops f
 | Software Development | 6 months |
 | Testing | 4 months |
 | Deployment & User Training | 4 months |
-</p>
+
 ## 5. Resources Needed
 <p align="justify">
 The estimated project budget stands at $100,000. This sum includes $40,000 for hardware components, $30,000 for software development, $20,000 for testing, and $10,000 for user training. A detailed cost breakdown and resource allocation plan will be provided upon project approval.
