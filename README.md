@@ -49,10 +49,11 @@ The estimated project budget stands at $100,000. This sum includes $40,000 for h
 Our project promises a new dawn for Rwanda's agriculture sector. By addressing the precise information gap on suitable crops for specific land and weather conditions, our solution will optimize agricultural practices in Rwanda, leading to improved crop yield and subsequent economic growth. In the long run, we expect to see a 15-20% increase in crop yield over the next five years, contributing significantly to Rwanda's food security and the livelihoods of its people.
   
 --------------------------------------
+# Crop-Recommendation-AI-Device-CRAD-Technology details 
 --------------------------------------
 
 
-# Crop-Recommendation-AI-Device-CRAD-Technology details 
+
  
 The **Crop Recommendation AI Device (CRAD)**, built on a Raspberry Pi 4 Model B, is a technological marvel designed to **revolutionize precision agriculture**. This device's primary function is to recommend suitable crops based on land criteria and predicted rainfall, making it a vital tool for optimizing agricultural practices.
   
